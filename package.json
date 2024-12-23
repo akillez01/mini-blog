@@ -2,7 +2,7 @@
   "name": "miniblog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://achilles.github.io/curso_react/10_MINI_BLOG/miniblog",
+  "homepage": "https://akillez01.github.io/mini-blog",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
